@@ -229,4 +229,4 @@ if(typeof my_var != "undefined"){ /*my_var is defined*/ }
 
 > tl;dr Node.js is an unpleasant software library and I will not use it.
 
-Node.js is a fast, performant server platform. I understand that you don't use it. That would require half a brain. And there is obviously something blocking your brain. It's called racism -- a prejudice towards things you don't understand and are afraid of. Unfortunately there is no amount of new, bright technology that can stop this blocking. Only you can -- by changing your attitude. :)
+Ted, I understand you so well. I used to be like you when I was... five years old? But Node.js is a fast, performant server platform. I understand that you don't use it. That would require half a brain. And there is obviously something blocking your brain. It's called racism -- a prejudice towards things you don't understand and are afraid of. Unfortunately there is no amount of new, bright technology that can stop this blocking. Only you can -- by changing your attitude. :)
