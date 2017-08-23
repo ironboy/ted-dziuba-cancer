@@ -45,7 +45,7 @@ http.createServer(function (req, res) {
   res.end(fibonacci(40));
 }).listen(1337, "127.0.0.1");
 ```
-On my older laptop, this is the result:
+> On my older laptop, this is the result:
 ```
 ted@lorenz:~$ time curl http://localhost:1337/
 165580141
