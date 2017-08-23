@@ -1,5 +1,10 @@
 # ted-dziuba-cancer
-Ted is blocking - here is the solution
+Ted is blocking - here is the solution... This is just a fast response to:
+http://widgetsandshit.com/teddziuba/2011/10/node-js-is-cancer.html
+and probably this post too:
+http://widgetsandshit.com/teddziuba/2011/10/straight-talk-on-event-loops.html
+
+If Ted hasn't been strangled by Python yet I hope he will respond. :)
 
 > If there's one thing web developers love, it's knowing better than conventional wisdom, but conventional wisdom is conventional for a reason: that shit works. Something's been bothering me for a while about this node.js nonsense, but I never took the time to figure it out until I read this butthurt post from Ryan Dahl, Node's creator. I was going to shrug it off as just another jackass who whines because Unix is hard. 
 
