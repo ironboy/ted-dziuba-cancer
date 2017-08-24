@@ -179,7 +179,7 @@ class Test {
     );
 
     // Some statistics about cpu-usage etc from simpleThreads
-    console.log('simpleThreads.stats:\n',JSON.stringify(simpleThreads.stats,'', '  '));
+    console.log('simpleThreads.stats:\n',simpleThreads.stats);
   }
 }
 
