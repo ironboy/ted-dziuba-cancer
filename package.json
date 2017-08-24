@@ -1,0 +1,15 @@
+{
+  "name": "nocancer",
+  "version": "1.0.0",
+  "description": "Node.js is not cancer",
+  "main": "app.js",
+  "author": "Thomas Frank",
+  "license": "MIT",
+  "dependencies": {
+    "big-integer": "^1.6.23",
+    "fair-share": "^1.0.4",
+    "precise-timer": "^1.0.0",
+    "random-int": "^1.0.0",
+    "simple-threads": "^1.0.0"
+  }
+}
